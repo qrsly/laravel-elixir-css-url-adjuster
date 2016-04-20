@@ -25,7 +25,7 @@
     "gulp-css-url-adjuster": "*"
   },
   "peerDependencies": {
-    "laravel-elixir": "^3.0"
+    "laravel-elixir": "^4.0"
   },
   "homepage": "https://github.com/farrrr/laravel-elixir-css-url-adjuster"
 }

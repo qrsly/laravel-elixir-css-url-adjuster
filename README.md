@@ -1,6 +1,6 @@
-#CSS url adjuster Ingredient for Laravel Elixir 3
+#CSS url adjuster Ingredient for Laravel Elixir
 
-This is a simple [gulp-css-url-adjuster](https://github.com/casualrelaxation/gulp-css-url-adjuster) wrapper ingredient for Laravel Elixir 3.
+This is a simple [gulp-css-url-adjuster](https://github.com/casualrelaxation/gulp-css-url-adjuster) wrapper ingredient for Laravel Elixir.
 
 ## Installation
 
